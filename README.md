@@ -1,16 +1,16 @@
-### Maze and Pathfinding Test Program
+# Maze and Pathfinding Test Program
 
-# Function
+## Function
 This is a program that randomly generates a maze as well as finds (one of) the shortest path from a user-defined start and finish.
 It uses the A* algorithmn to pathfind and DFS with a recursive backtracker to generate the maze.
 
-# Instructions
+## Instructions
 Left click to place the start and finish of the path you want to create.
 Click the buttons on the right to accomplish its desired function.
 Arrow keys to pan camera around the map.
 Scroll to adjust the scale of the map.
 
-# Bugs?
+## Bugs?
 There may be bugs.
 
 
