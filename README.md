@@ -1,5 +1,8 @@
 # Maze and Pathfinding Test Program
 
+## Install
+Import the contents to Eclipse.
+
 ## Function
 This is a program that randomly generates a maze as well as finds (one of) the shortest path from a user-defined start and finish.
 It uses the A* algorithmn to pathfind and DFS with a recursive backtracker to generate the maze.
