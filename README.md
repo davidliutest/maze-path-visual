@@ -15,8 +15,3 @@ It uses the A* algorithmn to pathfind and DFS with a recursive backtracker to ge
 * Arrow keys to pan camera around the map.
 * Scroll to adjust the scale of the map.
 
-## Bugs?
-There may be bugs.
-
-
-
