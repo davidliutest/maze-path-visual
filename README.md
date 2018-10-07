@@ -1,4 +1,4 @@
-# Maze and Pathfinding Test Program
+# Maze 2D Demo
 
 ## Install
 Import the contents to Eclipse.
